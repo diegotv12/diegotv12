@@ -1,75 +1,149 @@
+<div align="center">
+
 # `diegotv12`
 
-### Web Developer · Minecraft Add-on Creator
+### Desarrollador Web · Creador de Add-ons para Minecraft
 
-Building for the web. Creating for Minecraft.
+**Construyo para la web. Creo para Minecraft.**
 
-I’m a developer focused on building modern web experiences and creating custom content for **Minecraft Bedrock Edition** and **Minecraft Java Edition**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Desarrollo+web+moderno;Add-ons+para+Minecraft+Bedrock;Contenido+y+plugins+para+Minecraft+Java;C%C3%B3digo+limpio%2C+soluciones+pr%C3%A1cticas" alt="Typing SVG" />
 
-I enjoy turning ideas into functional projects, exploring new development techniques, and creating tools and experiences for the Minecraft community.
+<br>
+
+![Perfil](https://komarev.com/ghpvc/?username=diegotv12&label=Visitas&color=58a6ff&style=flat-square)
+![Seguidores](https://img.shields.io/github/followers/diegotv12?label=Seguidores&style=flat-square&color=58a6ff)
+
+</div>
 
 ---
 
-## `01` — About Me
+Soy un desarrollador enfocado en crear experiencias web modernas y contenido personalizado para **Minecraft Bedrock Edition** y **Minecraft Java Edition**.
 
-- **Focus:** Web development and Minecraft customization.
-- **Web:** Modern websites and digital experiences.
-- **Minecraft Bedrock:** Custom add-ons and gameplay experiences.
-- **Minecraft Java:** Custom content and server-side extensions.
-- **Approach:** Clean code, practical solutions, and continuous improvement.
+Disfruto convertir ideas en proyectos funcionales, explorar nuevas técnicas de desarrollo y crear herramientas y experiencias para la comunidad de Minecraft.
 
-## `02` — Tech Stack
+---
 
-**Web Development**
+## `01` — Sobre mí
 
-![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=white)
+```text
+diegotv12 ─────────────────────────────────────────────
+ . Rol .............. Desarrollador Web · Creador de Add-ons
+ . Ubicación ........ [Tu país / ciudad]
+ . Editor ........... [VS Code / Neovim / otro]
+ . Lenguajes ........ [JavaScript, TypeScript, HTML, CSS...]
+ . Idiomas .......... Español, [otros]
+ . Pasatiempos ...... Minecraft, programación, diseño
+ . Enfoque .......... Código limpio y mejora continua
 
-**Tools & Workflow**
+ ─ Contacto ────────────────────────────────────────────
+ . Email ............ [tu-correo@ejemplo.com]
+ . LinkedIn ......... [tu-usuario]
+ . YouTube .......... [@tu-canal]
+```
 
-![Git](https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=flat-square&logo=visualstudiocode&logoColor=white)
+- **Enfoque:** desarrollo web y personalización de Minecraft.
+- **Web:** sitios modernos y experiencias digitales.
+- **Minecraft Bedrock:** add-ons personalizados y experiencias de juego.
+- **Minecraft Java:** contenido personalizado y extensiones del lado del servidor.
+- **Filosofía:** código limpio, soluciones prácticas y mejora continua.
 
-*Note: These are initial suggestions. Keep only the technologies you actually use.*
+---
 
-## `03` — Minecraft Development
+## `02` — Stack Tecnológico
 
-**Bedrock Edition**
+### Desarrollo Web
 
-Creating add-ons that extend gameplay, introduce custom content, and explore the possibilities of the Bedrock ecosystem.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind&theme=dark" alt="Web" />
+</p>
 
-**Java Edition**
+### Minecraft
 
-Developing custom Minecraft content and extensions, with a focus on functionality, maintainability, and player experience.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,json&theme=dark" alt="Minecraft" />
+</p>
 
-## `04` — Featured Projects
+### Herramientas y Flujo de Trabajo
 
-Projects I'm building and maintaining.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Herramientas" />
+</p>
 
-> Replace these examples with your actual repositories.
+> **Nota:** son sugerencias iniciales. Deja solo las tecnologías que realmente uses.
+> Puedes ver más iconos en [skillicons.dev](https://skillicons.dev).
 
-- **[Project Name]** — A web development project.
-- **[Project Name]** — A Minecraft Bedrock add-on.
-- **[Project Name]** — A Minecraft Java plugin, mod, or tool.
+---
 
-Explore all my repositories on [GitHub](https://github.com/diegotv12?tab=repositories).
+## `03` — Desarrollo en Minecraft
 
-## `05` — GitHub Activity
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧱 Bedrock Edition</h3>
+      Creo add-ons que amplían la jugabilidad, añaden contenido personalizado y exploran las posibilidades del ecosistema Bedrock.
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ Java Edition</h3>
+      Desarrollo contenido y extensiones personalizadas, con enfoque en funcionalidad, mantenibilidad y la experiencia del jugador.
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegotv12&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=FFFFFF)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegotv12&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3)
+## `04` — Proyectos Destacados
+
+*Proyectos que estoy construyendo y manteniendo.*
+
+<!-- Reemplaza estos ejemplos con tus repositorios reales -->
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/diegotv12/NOMBRE-REPO-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegotv12&repo=NOMBRE-REPO-1&theme=github_dark&hide_border=true" alt="Proyecto web" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/diegotv12/NOMBRE-REPO-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegotv12&repo=NOMBRE-REPO-2&theme=github_dark&hide_border=true" alt="Add-on Bedrock" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/diegotv12/NOMBRE-REPO-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegotv12&repo=NOMBRE-REPO-3&theme=github_dark&hide_border=true" alt="Plugin Java" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+- **[Nombre del proyecto]** — Un proyecto de desarrollo web.
+- **[Nombre del proyecto]** — Un add-on para Minecraft Bedrock.
+- **[Nombre del proyecto]** — Un plugin, mod o herramienta para Minecraft Java.
+
+Explora todos mis repositorios en [GitHub](https://github.com/diegotv12?tab=repositories).
+
+---
+
+## `05` — Actividad en GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=diegotv12&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotv12&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes" />
+
+<img src="https://streak-stats.demolab.com/?user=diegotv12&theme=github-dark&hide_border=true&locale=es" alt="Racha" />
+
+</div>
 
 ---
 
 <div align="center">
 
-**`diegotv12`**
+### `diegotv12`
 
-*Code · Create · Improve*
+**Programar · Crear · Mejorar**
 
-[GitHub Profile](https://github.com/diegotv12)
+[Perfil de GitHub](https://github.com/diegotv12)
 
 </div>

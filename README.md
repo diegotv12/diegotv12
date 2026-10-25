@@ -20,7 +20,7 @@
 
 <div align="center">
 
-### ⚡ `SOBRE MÍ`
+### Sobre mí
 
 Soy un desarrollador enfocado en crear **experiencias web modernas** y **contenido personalizado** para **Minecraft Bedrock Edition** y **Minecraft Java Edition**.
 
@@ -30,25 +30,25 @@ Disfruto convertir ideas en proyectos funcionales, explorar nuevas técnicas de 
 
 ---
 
-## `01` — 🔴 Identidad
+## Identidad
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌐 Desarrollo Web**
+**Desarrollo Web**
 Sitios modernos, interfaces limpias y experiencias digitales pensadas para el usuario.
 
-**🧱 Minecraft Bedrock**
+**Minecraft Bedrock**
 Add-ons personalizados que amplían la jugabilidad y añaden contenido único.
 
 </td>
 <td width="50%" valign="top">
 
-**☕ Minecraft Java**
+**Minecraft Java**
 Contenido y extensiones del lado del servidor con enfoque en funcionalidad.
 
-**🎯 Filosofía**
+**Filosofía**
 Código limpio, soluciones prácticas y mejora continua.
 
 </td>
@@ -57,19 +57,19 @@ Código limpio, soluciones prácticas y mejora continua.
 
 ---
 
-## `02` — 🧨 Desarrollo en Minecraft
+## Desarrollo en Minecraft
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 Bedrock Edition
+### Bedrock Edition
 > Creo add-ons que amplían la jugabilidad, añaden contenido personalizado y exploran las posibilidades del ecosistema Bedrock.
 
 </td>
 <td width="50%" valign="top">
 
-### 🟤 Java Edition
+### Java Edition
 > Desarrollo contenido y extensiones personalizadas, con enfoque en funcionalidad, mantenibilidad y la experiencia del jugador.
 
 </td>
@@ -78,7 +78,7 @@ Código limpio, soluciones prácticas y mejora continua.
 
 ---
 
-## `03` — 🩸 Stack & Herramientas
+## Stack & Herramientas
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Código limpio, soluciones prácticas y mejora continua.
 
 ---
 
-## `04` — 📊 Actividad en GitHub
+## Actividad en GitHub
 
 <div align="center">
 
